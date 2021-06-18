@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<c:contact c:Version="1" xmlns:c="http://schemas.microsoft.com/Contact" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:MSP2P="http://schemas.microsoft.com/Contact/Extended/MSP2P">
+	<c:CreationDate>2019-07-04T06:24:20Z</c:CreationDate><c:Extended xsi:nil="true"/>
+	<c:ContactIDCollection><c:ContactID c:ElementID="49baae8f-d54b-4a72-886a-4b619cb802d3"><c:Value>30fa78e8-b44c-4f46-84e6-a33f23f897ae</c:Value></c:ContactID></c:ContactIDCollection><c:NameCollection><c:Name c:ElementID="563d1cd2-e983-48b4-9099-28a21a37b8cc"><c:FormattedName>Perumal</c:FormattedName><c:GivenName>Perumal</c:GivenName></c:Name></c:NameCollection><c:PhotoCollection><c:Photo c:ElementID="720e7dcf-88db-4bc9-809b-e1b10622b892"><c:LabelCollection><c:Label>UserTile</c:Label></c:LabelCollection></c:Photo></c:PhotoCollection></c:contact>
